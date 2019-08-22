@@ -1,1 +1,1 @@
-ppriny('loginpage')
+print('loginpage')
