@@ -1,0 +1,1 @@
+ppriny('loginpage')
